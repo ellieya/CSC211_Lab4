@@ -19,14 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\JC_211_Lab4_driver.cpp" />
-    <ClCompile Include="..\JC_211_Lab4_implementation.cpp" />
+    <ClCompile Include="JC_211_Lab4_driver.cpp" />
+    <ClCompile Include="JC_211_Lab4_implementation.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\10sample.txt" />
+    <Text Include="10sample.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\JC_211_Lab4.h" />
+    <ClInclude Include="JC_211_Lab4.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
